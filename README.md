@@ -1,6 +1,7 @@
-[![Build Status](https://travis-ci.org/haozl/spring-security-custom-login-form-jc.svg)](https://travis-ci.org/haozl/spring-security-custom-login-form-jc)
 Spring Security Custom Login Form example (Java Configuration)
 ===============================
+[![Build Status](https://travis-ci.org/haozl/spring-security-custom-login-form-jc.svg)](https://travis-ci.org/haozl/spring-security-custom-login-form-jc)
+
 Example on how to configure and create a spring security custom login form with Java configuration
 
 ### 1. Technologies used
